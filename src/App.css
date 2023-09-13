@@ -1,4 +1,4 @@
-.App {
+/* .App {
   text-align: center;
 }
 
@@ -35,4 +35,13 @@
   to {
     transform: rotate(360deg);
   }
+} */
+
+.left-box{
+  padding: 0;
+  background-image: url('https://images.fineartamerica.com/images/artworkimages/mediumlarge/1/vertical-oil-rig-sunset-connie-cooper-edwards.jpg');
+  background-position: fixed; 
+  background-repeat: no-repeat; 
+  background-size: cover;
+  height: 100vh;
 }
